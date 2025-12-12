@@ -28,6 +28,7 @@ Copy and run this code in your R console to install all dependencies:
 
 2. Organize Your Folders: After cloning this repository, create a data folder and place the downloaded files inside as shown below:
 
+```
 /omics-kidney-analysis
   ├── omics_analysis.R       # The main script
   └── data/                  # Create this folder
@@ -37,6 +38,7 @@ Copy and run this code in your R console to install all dependencies:
        ├── VEGF_A_UP.V1_DN.v2024.1.Hs.txt
        └── output/           # Create this sub-folder
             └── abundance.h5
+```
 
 # How to Run
 1. Clone this repository.
